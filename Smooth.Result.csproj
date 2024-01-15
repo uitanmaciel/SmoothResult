@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Title>SmoothResult</Title>
+    <Authors>uitanmaciel</Authors>
+    <Description>The Smooth Result is a lightweight, robust C# library designed to simplify error handling and improve the readability of your code. It provides a standardized way to return and handle results from functions and methods, distinguishing clearly between successful outcomes and failures.</Description>
+  </PropertyGroup>
+
+</Project>
