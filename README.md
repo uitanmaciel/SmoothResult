@@ -210,5 +210,5 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Support and Contact
 
-If you encounter any issues or have questions, please feel free to reach out through our [GitHub Issues] page.
+If you encounter any issues or have questions, please feel free to reach out through our [GitHub Issues](https://github.com/uitanmaciel/SmoothResult/issues) page.
 
